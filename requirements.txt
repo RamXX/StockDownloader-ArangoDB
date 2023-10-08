@@ -1,0 +1,6 @@
+pandas
+pandas-market-calendars
+yfinance
+pyarrow
+python-dotenv
+python-arango
